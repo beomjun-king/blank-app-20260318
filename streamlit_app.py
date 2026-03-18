@@ -1,3 +1,5 @@
+import streamlit as st
+
 st.title("김범준 자기소개")
 
 st.header("👋 인사말")
